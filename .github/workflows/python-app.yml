@@ -35,3 +35,7 @@ jobs:
       - name: samsungcardbot
         run: |
           python newsKeywordBot.py
+      
+      - name: sungwonsamsungcardbot
+        run: |
+          python sungwon.py
